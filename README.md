@@ -1,4 +1,4 @@
-## I'M AASHLESHA DESHMUKH 
+# I'M AASHLESHA DESHMUKH 
 # 💫 About Me:
 Hi, I’m AASHLESHA DESHMUKH 👋<br><br>A frontend and UI-focused learner pursuing a Diploma in Computer Engineering.<br>I enjoy creating minimal, thoughtful designs and sharpening my skills through hands-on projects and exploration.<br>building random projects, breaking things, fixing them again<br><br>powered by curiosity & mild overthinking<br><br>projects may be small, learning is not!
 
